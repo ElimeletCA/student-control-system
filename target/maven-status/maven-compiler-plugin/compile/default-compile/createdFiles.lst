@@ -1,0 +1,10 @@
+com\student_control_system\config\LocalDevConfig.class
+com\student_control_system\util\WebUtils.class
+com\student_control_system\services\StudentsServiceImpl.class
+com\student_control_system\services\StudentsService.class
+com\student_control_system\repos\StudentsRepository.class
+com\student_control_system\domain\Students.class
+com\student_control_system\StudentControlSystemApplication.class
+com\student_control_system\config\DomainConfig.class
+com\student_control_system\controller\HomeController.class
+com\student_control_system\config\ControllerConfig.class
