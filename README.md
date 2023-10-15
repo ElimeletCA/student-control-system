@@ -1,3 +1,5 @@
+![](https://github.com/ElimeletCA/student-control-system/blob/main/src/main/resources/screencapture-localhost-8080-new-2023-10-15-11_53_04.png)
+
 # StudentControlSystem
 
 This app was created with Bootify.io - tips on working with the code [can be found here](https://bootify.io/next-steps/).
